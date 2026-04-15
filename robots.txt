@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sofia-reviews.github.io/TC24-Total-Control-24-Reviews-Complaints/sitemap.xml
